@@ -134,7 +134,7 @@
   {
    "cell_type": "code",
 <<<<<<< HEAD
-   "execution_count": none,
+   "execution_count": None,
 =======
    "execution_count": None,
    "id": "2324b4da-913f-4e17-a073-3d2ada7b4927",
