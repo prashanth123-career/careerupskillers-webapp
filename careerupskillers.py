@@ -137,7 +137,6 @@
    "execution_count": none,
 =======
    "execution_count": None,
->>>>>>> c731a0f (Fixed NameError (none → null))
    "id": "2324b4da-913f-4e17-a073-3d2ada7b4927",
    "metadata": {},
    "outputs": [],
